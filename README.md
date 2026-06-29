@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Study Burnout Detector</h1>
+# 🧠 Study Burnout Detector
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-PartyRock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS PartyRock"/>
