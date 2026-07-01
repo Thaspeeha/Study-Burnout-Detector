@@ -182,3 +182,6 @@ Remember to:
 Every small, gentle step you take today is already enough.
 
 <h3 align="center">💙 You've got this 💙</h3>
+
+## 🏆 Badge
+[![Badge](https://img.shields.io/badge/Udacity-Badge-blue)](https://www.canva.com/design/DAG07zn-qoo/ThNlYB7NfVIliNvNs2iNxg/edit?utm_content=DAG07zn-qoo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
