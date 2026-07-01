@@ -185,3 +185,5 @@ Every small, gentle step you take today is already enough.
 
 ## 🏆 Badge
 [![Badge](https://img.shields.io/badge/Udacity-Badge-blue)](https://github.com/Thaspeeha/Study-Burnout-Detector/blob/main/unnamed%20(1).jpg) 
+
+> "Completed as part of the AWS AI/ML Scholars Challenge Phase"
