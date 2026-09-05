@@ -187,7 +187,7 @@ Every small, gentle step you take today is already enough.
 
 ## AWS Study Burnout Detector Developed
 
-[![AWS PartyRock](https://img.shields.io/badge/AWS%20PartyRock-App-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](YOUR_PARTYROCK_APP_URL) 
+[![AWS PartyRock](https://img.shields.io/badge/AWS%20PartyRock-App-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://partyrock.aws/u/thaspeeha/dmDk0GcS0/Am-I-Burned-Out) 
 
 ## 🏆 Badge
 [![Badge](https://img.shields.io/badge/Udacity-Badge-blue)](https://github.com/Thaspeeha/Study-Burnout-Detector/blob/main/unnamed%20(1).jpg) 
