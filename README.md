@@ -187,7 +187,7 @@ Every small, gentle step you take today is already enough.
 
 ## AWS Study Burnout Detector Developed
 
-[![Study Burnout Detector](https://img.shields.io/badge/Study Burnout Detector-App-pink)](https://github.com/Thaspeeha/Study-Burnout-Detector/blob/main/unnamed%20(1).jpg) 
+[![Study Burnout Detector](https://img.shields.io/badge/Study-Burnout-Detector-App-pink)](https://github.com/Thaspeeha/Study-Burnout-Detector/blob/main/unnamed%20(1).jpg) 
 
 ## 🏆 Badge
 [![Badge](https://img.shields.io/badge/Udacity-Badge-blue)](https://github.com/Thaspeeha/Study-Burnout-Detector/blob/main/unnamed%20(1).jpg) 
